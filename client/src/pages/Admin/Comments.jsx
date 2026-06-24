@@ -1,5 +1,5 @@
 import React, { useEffect, useState } from 'react'
-import CommentTableItem from '../../components/admin/CommentTableItem'
+import CommentTableItem from '../../components/Admin/CommentTableItem'
 import { useAppContext } from '../../../context/AppContext'
 
 const toast = { error: () => {}, success: () => {} }

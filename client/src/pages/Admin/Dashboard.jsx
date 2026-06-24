@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from 'react'
 import {assets} from '../../assets/assets'
-import BlogTableItem from '../../components/admin/BlogTableItem'
+import BlogTableItem from '../../components/Admin/BlogTableItem'
 import { useAppContext } from '../../../context/AppContext'
 const toast = { error: () => {}, success: () => {} }
 
