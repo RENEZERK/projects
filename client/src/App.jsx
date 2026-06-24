@@ -7,7 +7,7 @@ import Dashboard from './pages/Admin/Dashboard.jsx'
 import Comments from './pages/Admin/Comments.jsx'
 import AddBlog from './pages/Admin/AddBlog.jsx'
 import ListBlog from './pages/Admin/ListBlog.jsx'
-import Login from './components/admin/Login.jsx'
+import Login from './components/Admin/Login.jsx'
 import { useAppContext } from '../context/AppContext.jsx'
 import { Toaster } from 'react-hot-toast'
 
